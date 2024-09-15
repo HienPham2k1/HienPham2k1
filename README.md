@@ -7,10 +7,10 @@
 - [SQL](https://github.com/HienPham2k1/SQL)
   - Explore Data through Google dataset
   - **Corhort Map** and Yoy difference 
-- Power BI
+- [Power BI](https://github.com/HienPham2k1/Power-Bi)
   - Using **Design Thinking** to make **NorthStar**
   - **Visualize** the keys matrix 
-- Python
+- [Python](https://github.com/HienPham2k1/Python)
   - RFM analysis and find **Insight**
 - Machine Learning
   - Using statistic knowledge to **test and choose models** with highest accuracy
