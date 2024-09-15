@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Analysis.
   I'd made some personal Project, i'm so pleasure if you have time to check it out
 ## Project: 
-- SQL 
+- [SQL](https://github.com/HienPham2k1/SQL)
   - Explore Data through Google dataset
   - **Corhort Map** and Yoy difference 
 - Power BI
