@@ -12,7 +12,7 @@
   - **Visualize** the keys matrix 
 - [Python](https://github.com/HienPham2k1/Python)
   - RFM analysis and find **Insight**
-- Machine Learning
+- [Machine Learning](https://github.com/HienPham2k1/Machine-Learning)
   - Using statistic knowledge to **test and choose models** with highest accuracy
 <!---
 HienPham2k1/HienPham2k1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
